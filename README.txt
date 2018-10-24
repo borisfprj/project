@@ -9,7 +9,7 @@ test_functions_and_features - directory for files, that shows results or example
 For other directories:
   Sql-type file of your table
   Data of table
-  README.TXT:
+  README.txt:
     Meaningness of your table
     How it connetcts wiht project/other tables
     Examples

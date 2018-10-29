@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Oct 28, 2018 at 01:48 PM
+-- Generation Time: Oct 29, 2018 at 12:54 AM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.8
 
@@ -62,7 +62,7 @@ INSERT INTO `audience` (`id`, `building_num`, `aud_num`, `capacity`, `type`, `pr
 ('01223', '1', '223', '90', 'lecture', '-'),
 ('01224', '1', '224', '15', 'laboratory', '-'),
 ('01225', '1', '225', '90', 'lecture', '+'),
-('01226', '1', '226', '40', 'lecture', '-'),
+('01226', '1', '226', '40', 'lecture', '+'),
 ('01227', '1', '227', '40', 'laboratory', '-'),
 ('012357', '1', '235-7', '10', 'laboratory', '-'),
 ('01312a', '1', '312а', '40', 'lecture', '-'),
